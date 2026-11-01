@@ -170,7 +170,7 @@ This is Project 97 of Tier 10 - SCALE - After Video Streaming API (96), now real
 
 ---
 
-# 📸 Screenshots - 13 Demos - Search with Elastic Verified - Live on Render 2m23s
+# 📸 Screenshots - 14 Demos - Search with Elastic Verified - Live on Render 2m23s
 
 ### Demo 1 – Browser - GET / - Home Live JSON - Search with Elastic Tier 10 SCALE
 ![Demo1 Home](https://github.com/raviteja-dev950/97-search-with-elastic/raw/main/screenshots/demo1.png)
