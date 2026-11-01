@@ -1,28 +1,28 @@
 # 🚀 Project 97 – Search with Elastic | System Design Level | Full Stack DevOps
 
-![Java 17](https://img.shields.io/badge/Java-17-E76F00?logo=openjdk&logoColor=white)
-![Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
-![Caching](https://img.shields.io/badge/Caching-Caffeine%201000%20max%20600s%20expire%20Stats-blue?logo=redis&logoColor=white)
-![Cache Stats](https://img.shields.io/badge/Cache%20Stats-recordStats%20enabled-brightgreen)
-![Security](https://img.shields.io/badge/Security-Headers%20nosniff%20DENY%20XSS-red?logo=springsecurity&logoColor=white)
-![Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-Document.Builder%20Fluent%20API-success?logo=java&logoColor=white)
-![Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-Exact%20vs%20Fuzzy%20vs%20Autocomplete-yellow?logo=elasticsearch&logoColor=white)
-![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-JpaRepository-6DB33F)
-![H2 Database](https://img.shields.io/badge/H2-Database%20searchdb-003545?logo=h2&logoColor=white)
-![viewCount](https://img.shields.io/badge/viewCount-Added%20%2B%20idx__title%20%2B%20idx__content-orange)
-![JUnit 5](https://img.shields.io/badge/JUnit-5%206%2F6%20Green-25A162?logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-Mocked%20Repo%20when%2Fverify-00BFFF)
-![Elasticsearch Pattern](https://img.shields.io/badge/Elasticsearch-Pattern%20Exact%20Fuzzy%20Autocomplete%20edge__ngram-blueviolet?logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Multi--Stage-2496ED?logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-Live%202m23s-brightgreen?logo=render&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-10.1.20-D4AF00?logo=apachetomcat&logoColor=white)
-![Port](https://img.shields.io/badge/Port-8099-00BFFF)
-![Status](https://img.shields.io/badge/Status-Search%20with%20Elastic%20Live%20Tier%2010-brightgreen)
-![Tier 10](https://img.shields.io/badge/Tier%2010-System%20Design%20Level%20SCALE-blueviolet)
+[Java 17](https://img.shields.io/badge/Java-17-E76F00?logo=openjdk&logoColor=white)
+[Spring Boot 3.2.5](https://img.shields.io/badge/Spring%20Boot-3.2.5-6DB33F?logo=springboot&logoColor=white)
+[Caching](https://img.shields.io/badge/Caching-Caffeine%201000%20max%20600s%20expire%20Stats-blue?logo=redis&logoColor=white)
+[Cache Stats](https://img.shields.io/badge/Cache%20Stats-recordStats%20enabled-brightgreen)
+[Security](https://img.shields.io/badge/Security-Headers%20nosniff%20DENY%20XSS-red?logo=springsecurity&logoColor=white)
+[Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-Document.Builder%20Fluent%20API-success?logo=java&logoColor=white)
+[Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-Exact%20vs%20Fuzzy%20vs%20Autocomplete-yellow?logo=elasticsearch&logoColor=white)
+[Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-JpaRepository-6DB33F)
+[H2 Database](https://img.shields.io/badge/H2-Database%20searchdb-003545?logo=h2&logoColor=white)
+[viewCount](https://img.shields.io/badge/viewCount-Added%20%2B%20idx__title%20%2B%20idx__content-orange)
+[JUnit 5](https://img.shields.io/badge/JUnit-5%206%2F6%20Green-25A162?logo=junit5&logoColor=white)
+[Mockito](https://img.shields.io/badge/Mockito-Mocked%20Repo%20when%2Fverify-00BFFF)
+[Elasticsearch Pattern](https://img.shields.io/badge/Elasticsearch-Pattern%20Exact%20Fuzzy%20Autocomplete%20edge__ngram-blueviolet?logo=elasticsearch&logoColor=white)
+[Docker](https://img.shields.io/badge/Docker-Multi--Stage-2496ED?logo=docker&logoColor=white)
+[Render](https://img.shields.io/badge/Render-Live%202m23s-brightgreen?logo=render&logoColor=white)
+[Tomcat](https://img.shields.io/badge/Apache%20Tomcat-10.1.20-D4AF00?logo=apachetomcat&logoColor=white)
+[Port](https://img.shields.io/badge/Port-8099-00BFFF)
+[Status](https://img.shields.io/badge/Status-Search%20with%20Elastic%20Live%20Tier%2010-brightgreen)
+[Tier 10](https://img.shields.io/badge/Tier%2010-System%20Design%20Level%20SCALE-blueviolet)
 
 **Live URL:** https://nine7-search-with-elastic.onrender.com/
 
-[![Live](https://img.shields.io/badge/Live-Render-brightgreen?style=for-the-badge&logo=render)](https://nine7-search-with-elastic.onrender.com)
+[[Live](https://img.shields.io/badge/Live-Render-brightgreen?style=for-the-badge&logo=render)](https://nine7-search-with-elastic.onrender.com)
 
 Project 97 - Part of Java 102 Projects Challenge - System Design Level Tier 10 SCALE
 ---
@@ -144,6 +144,7 @@ This is Project 97 of Tier 10 - SCALE - After Video Streaming API (96), now real
 │                   └── DocumentServiceTest.java (JUnit 5 + Mockito - 6 tests green - Runs 6/6 Errors 0 Failures 0 Green Bar 5.787s + Fixed UnnecessaryStubbingException)
 │
 ├── screenshots
+│   ├── demo14.png (Render Deploy Live - STATUS Deploy succeeded Live Green Tick - DURATION 2m35s - DEPLOYED Nov 1, 2026 at 8:57:06 PM GMT+5:30 - TRIGGER First Deploy - SOURCE baefad5 - Tomcat started on port 10000 - Started SearchWithElasticApplication in 101.706 seconds - Your service is live - Available at primary URL https://nine7-search-with-elastic.onrender.com - Proof of Live - Same as 96 Live 2m23s)
 │   ├── demo1.png (GET / - Home Live JSON - Search with Elastic Tier 10 - owner Raviteja + security nosniff DENY XSS + designPatterns Builder Strategy Repository Caching + tier 10 + port 8099 + testing JUnit5 Mockito 6 tests + caching Caffeine 1000 max 600s Stats enabled + elasticsearch Exact Fuzzy Autocomplete + live https://nine7-search-with-elastic.onrender.com)
 │   ├── demo2.png (GET /health - UP - search Active Elasticsearch Pattern Exact Fuzzy Autocomplete Strategy Pattern + cache Active Caffeine Stats enabled + security Headers Active + githubGoal CONTRIBUTING.md)
 │   ├── demo3.png (GET /api/documents - [] - Empty list before index - Browser localhost:8099/api/documents Pretty-print)
@@ -172,67 +173,67 @@ This is Project 97 of Tier 10 - SCALE - After Video Streaming API (96), now real
 # 📸 Screenshots - 13 Demos - Search with Elastic Verified - Live on Render 2m23s
 
 ### Demo 1 – Browser - GET / - Home Live JSON - Search with Elastic Tier 10 SCALE
-![Demo1 Home](screenshots/demo1.png)
+[Demo1 Home](screenshots/demo1.png)
 
 *GET http://localhost:8099/ - Browser - 200 OK - Returns {"owner":"Raviteja","security":"X-Content-Type-Options nosniff, X-Frame-Options DENY, XSS Protection","designPatterns":["Builder Pattern - Document.Builder","Strategy Pattern - Exact vs Fuzzy vs Autocomplete","Repository Pattern","Caching Pattern"],"tier":"10 - System Design Level - Caching + Security + Testing + Design Patterns","port":"8099","testing":"JUnit 5 + Mockito - 6 tests","project":"97-search-with-elastic","caching":"Caffeine Cache - documents cache - 1000 max, 600s expire - Stats enabled - Redis ready","elasticsearch":"Elasticsearch Pattern - Exact Fuzzy Autocomplete - edge_ngram + completion suggester + fuzziness AUTO","live":"https://nine7-search-with-elastic.onrender.com","status":"Live - Search with Elastic - Tier 10 Scale"} - Proof of Home Live - Portfolio ready - Tier 10 SCALE 97/102 - 95%*
 
 ### Demo 2 – Browser - GET /health - UP - Caching + Security + Search Active
-![Demo2 Health](screenshots/demo2.png)
+[Demo2 Health](screenshots/demo2.png)
 
 *GET http://localhost:8099/health - Browser - 200 OK - Returns {"search":"Active - Elasticsearch Pattern - Exact Fuzzy Autocomplete - Strategy Pattern","cache":"Active - Caffeine - documents, document - Stats enabled","security":"Headers Active","project":"97-search-with-elastic","githubGoal":"CONTRIBUTING.md + Issues + Release Tags + Badges + Live Link + Architecture Diagram - Tier 10 Goal","status":"UP"} - Proof of Health Endpoint - Tier 10 Health Check*
 
 ### Demo 3 – Browser - GET /api/documents - Empty List - Before Index
-![Demo3 Empty List](screenshots/demo3.png)
+[Demo3 Empty List](screenshots/demo3.png)
 
 *GET http://localhost:8099/api/documents - Browser - 200 OK - Returns [] - Empty JSON array - Proof of List Endpoint Working - No documents yet - H2 in-memory empty - Caching documents cache ready*
 
 ### Demo 4 – Postman - POST /api/search/index - 200 OK - id 1 - Builder Pattern + Cache Evicted
-![Demo4 Index Builder](screenshots/demo4.png)
+[Demo4 Index Builder](screenshots/demo4.png)
 
 *POST http://localhost:8099/api/search/index?title=Elasticsearch Guide&content=Learn Elasticsearch full-text search with Spring Boot and Caffeine Cache&tags=search, elastic, java - 200 OK Time 234 ms Size 678 B - Returns indexedAt cache documents cache evicted searchUrl id viewCount title message Indexed - Search Ready - Cache Evicted - Builder Pattern - Elasticsearch Pattern*
 
 ### Demo 5 – Postman - GET /api/documents - With 2 Docs - viewCount + X-Cache
-![Demo5 List viewCount](screenshots/demo5.png)
+[Demo5 List viewCount](screenshots/demo5.png)
 
 *GET http://localhost:8099/api/documents - Postman - 200 OK Time 64 ms Size 788 B - Returns 2 docs id 2 + id 1 viewCount 0 + indexedAt + tags - Proof of List Persistence - H2 - idx_title + idx_content + X-Cache: Caffeine*
 
 ### Demo 6 – Postman - GET /api/search?q=Elasticsearch - Exact-Strategy count 2
-![Demo6 Search Exact](screenshots/demo6.png)
+[Demo6 Search Exact](screenshots/demo6.png)
 
 *GET http://localhost:8099/api/search?q=Elasticsearch - Exact-Strategy match query count 2 - X-Search-Strategy: Exact-Strategy - Core Tier 10 Feature - Google Search*
 
 ### Demo 7 – Postman - GET /api/search/autocomplete?prefix=Elas - Autocomplete-Strategy count 2
-![Demo7 Autocomplete](screenshots/demo7.png)
+[Demo7 Autocomplete](screenshots/demo7.png)
 
 *GET http://localhost:8099/api/search/autocomplete?prefix=Elas - Status 200 OK Time 19 ms Size 895 B - engine Elasticsearch-Pattern - edge_ngram + completion suggester prefix Elas count 2 strategy Autocomplete-Strategy results 2 docs*
 
 ### Demo 8 – Postman - GET /api/search/fuzzy?q=Elastc - Fuzzy-Strategy OLD count 0 Bug
-![Demo8 Fuzzy Bug 0](screenshots/demo8.png)
+[Demo8 Fuzzy Bug 0](screenshots/demo8.png)
 
 *GET http://localhost:8099/api/search/fuzzy?q=Elastc - Status 200 OK Time 1267 ms Size 444 B - engine fuzziness AUTO query Elastc count 0 results [] - Bug Fixed by isFuzzyMatch contains*
 
 ### Demo 9 – Eclipse Console - JUnit Console Logs
-![Demo9 JUnit Console](screenshots/demo9.png)
+[Demo9 JUnit Console](screenshots/demo9.png)
 
 *Eclipse Console - Builder Pattern Test Passed Elasticsearch Guide + Format Document Test Passed + Document Entity Test Passed + Mockito Test Passed getDocumentById + Search Test Passed Found 1 doc for keyword Java - Strategy Pattern Exact + Mockito Test Passed getAllDocuments - Mocked 2 docs - Caching: documents*
 
 ### Demo 10 – Eclipse JUnit - Green Bar - 6/6 Tests Passed
-![Demo10 JUnit Green](screenshots/demo10.png)
+[Demo10 JUnit Green](screenshots/demo10.png)
 
 *Eclipse JUnit - Finished after 6.338 seconds - Runs: 6/6 Errors: 0 Failures: 0 Green Bar - DocumentServiceTest [Runner: JUnit 5] (5.787 s) - testBuilderPattern 5.439 s + 6 tests - Was 2/2 Tier 5 -> Now 6/6 Tier 10 - Fixed UnnecessaryStubbingException*
 
 ### Demo 11 – Postman - GET /api/search/fuzzy?q=Elastc - OLD count 0 - 07:58 PM
-![Demo11 Fuzzy Old](screenshots/demo11.png)
+[Demo11 Fuzzy Old](screenshots/demo11.png)
 
 *Same bug count 0 - Before fix - For history - 07:58 PM*
 
 ### Demo 12 – Postman - POST /api/search/index - 200 OK - id 1 - 08:05 PM
-![Demo12 Index](screenshots/demo12.png)
+[Demo12 Index](screenshots/demo12.png)
 
 *POST index again - 08:05 PM - Returns indexedAt 2026-11-01T20:05:35.799047 cache documents cache evicted id 1 viewCount 0 - Indexed - Search Ready - Cache Evicted*
 
 ### Demo 13 – Postman - GET /api/search/fuzzy?q=Elastc - FUZZY FIXED count 1
-![Demo13 Fuzzy Fixed](screenshots/demo13.png)
+[Demo13 Fuzzy Fixed](screenshots/demo13.png)
 
 *GET /api/search/fuzzy?q=Elastc - Status 200 OK Time 104 ms Size 653 B - engine fuzziness AUTO query Elastc count 1 strategy Fuzzy-Strategy results id 1 title Elasticsearch Guide - Proof of Fuzzy Fix - isFuzzyMatch text.contains(shortKeyword) fix - count 0 -> count 1 - Core Tier 10 Feature - Google Did you mean? - 08:06 PM - Fixed after 07:58 PM*
 
@@ -345,7 +346,7 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
         |       +-- DocumentController.java (7 endpoints + Home Live JSON Tier 10 + Health UP + Index POST + List GET @Cacheable + Search GET Exact-Strategy + Autocomplete GET Autocomplete-Strategy edge_ngram + Fuzzy GET Fuzzy-Strategy fuzziness AUTO - Strategy Pattern core)
         |       +-- DocumentServiceTest.java (JUnit 5 + Mockito - 6 tests green - Runs 6/6 Errors 0 Failures 0 Green Bar 5.787s + Fixed UnnecessaryStubbingException)
         |       +-- application.properties (server.port=${PORT:8099} + datasource jdbc:h2:mem:searchdb + cache type caffeine + caffeine spec maximumSize=1000,expireAfterAccess=600s,recordStats)
-        |       +-- screenshots (demo1-13)
+        |       +-- screenshots (demo1-14)
         |       +-- Dockerfile (Multi-Stage - Fix for openjdk not found + COPY target error + data not found)
         |       +-- CONTRIBUTING.md (12466 chars - Tier 10 GitHub Goal)
         |       +-- .github/ISSUE_TEMPLATE (bug_report.md + feature_request.md)
